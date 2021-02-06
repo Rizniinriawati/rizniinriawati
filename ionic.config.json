@@ -1,0 +1,7 @@
+{
+  "name": "rizni",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
